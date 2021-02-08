@@ -9,6 +9,9 @@ Walhai ist ein Unterwassertier.
 [Verhalten](verhalten.md)
 
 
+![Walhai!](/shark.jpg "Walhai")
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
