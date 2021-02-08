@@ -9,7 +9,7 @@ Walhai ist ein Unterwassertier.
 [Verhalten](verhalten.md)
 
 
-![Walhai!](/shark.jpg "Walhai")
+![Walhai!](shark.jpg "Walhai")
 
 
 ### Markdown
