@@ -3,7 +3,7 @@
 Walhai ist ein Unterwassertier. 
 
 ### Navigation
-[Bildgallerie](bildgallerie.md)
+[Bildgallerie](bildgallerie.md) [Habitat](habitat.md)
 
 
 ### Markdown
