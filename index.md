@@ -11,6 +11,7 @@ Walhai ist ein Unterwassertier.
 
 ![Walhai!](shark.jpg "Walhai")
 
+![Philadelphia's Magic Gardens. This place was so cool!](shark.jpg "Philadelphia's Magic Gardens")
 
 ### Markdown
 
