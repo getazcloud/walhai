@@ -2,6 +2,10 @@
 
 Walhai ist ein Unterwassertier. 
 
+### Navigation
+[a relative link](bildgallerie.md)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
